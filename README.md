@@ -8,18 +8,23 @@ Express.js app to keep track of to-dos, take notes, and write yourself reminders
 
 ## Usage
 To use the app, open it here: https://fast-everglades-84209.herokuapp.com/ and click the "Get Started" button:
+
 <img alt="Screen showing a welcome message and Get Started button" src="public/assets/images/start-page.PNG"/>
 
 You will see existing notes on the left side with room to create a new note on the right side:
+
 <img alt="Screen showing a list of pre-populated notes and an area to create your own note" src="public/assets/images/new-page.PNG"/>
 
 After providing a note subject and body, a Save icon becomes available at the top right corner of the page:
+
 <img alt="Screen showing new note content with revealed Save icon" src="public/assets/images/new-note.PNG"/>
 
 After clicking the Save icon, the note you have created is added to the bottom of the list:
+
 <img alt="Screen showing updated saved note list" src="public/assets/images/updated-list.PNG"/>
 
 As tasks or notes are no longer needed here, you can click the Delete icon to remove that note from the list. In this example, the "Set up a Website" note has been removed:
+
 <img alt="Screen showing updated saved note list" src="public/assets/images/deleted-note.PNG"/>
 
 
