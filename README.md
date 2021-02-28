@@ -6,6 +6,14 @@ https://fast-everglades-84209.herokuapp.com/
 ## Description
 Express.js app to keep track of to-dos, take notes, and write yourself reminders.
 
+## Table of Contents
+
+* [Usage](#usage)
+* [Extra Features](#extra-features)
+* [Known Issues and Future Enhancements](#known-issues-and-future-enhancements)
+* [License](#license)
+
+
 ## Usage
 To use the app, open it here: https://fast-everglades-84209.herokuapp.com/ and click the "Get Started" button:
 
