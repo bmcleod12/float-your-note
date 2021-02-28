@@ -62,15 +62,6 @@ This section covers known issues with the application, which will be revisited a
 * When writing the note, there is no rich text editor available to add in bullet points, tables, etc.
 
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-
 ## License
 
 MIT License
