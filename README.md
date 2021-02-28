@@ -28,11 +28,17 @@ As tasks or notes are no longer needed here, you can click the Delete icon to re
 <img alt="Screen showing updated saved note list" src="public/assets/images/deleted-note.PNG"/>
 
 
-## Features
-* Entering any string aside from "notes" in the URL returns the home page:
+## Extra Features
+Entering any string aside from "notes" in the URL returns the home page:
+
 <img alt="Entering any string other than 'notes' returns the home page" src="public/assets/images/fuzzy-home.PNG"/>
 
-* 
+You can navigate to the JSON view of the note list at .../api/notes. Each object is assigned an ID:
+
+<img alt="JSON object IDs update after splicing array" src="public/assets/images/api-notes.PNG"/>
+
+When an item is deleted from the list, the object IDs are updated to reflect their order in the array. In this case, compared to the screenshot above, the "Profit" note was deleted, and the "Retire" note took on the ID of 2:
+
 <img alt="JSON object IDs update after splicing array" src="public/assets/images/api-notes-after-deletion.PNG"/>
 
 ## Known Issues and Future Enhancements
